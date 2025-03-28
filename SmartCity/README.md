@@ -1,15 +1,4 @@
-# SmartEx - Smart City Management System
-
-A React + TypeScript + Vite application for smart city management and monitoring.
-
-## Environment Setup
-
-Before running the application, you need to set up your environment variables:
-
-1. Copy `.env.example` to `.env`
-2. Replace `your_api_key_here` with your WAQI API key in the `.env` file
-
-## Development Setup
+# React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -62,3 +51,4 @@ export default tseslint.config({
     ...reactDom.configs.recommended.rules,
   },
 })
+```
